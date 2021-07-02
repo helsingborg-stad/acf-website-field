@@ -1,7 +1,7 @@
 {
     "name": "jeradin/acf-website-field",
     "description": "Website field for ACF",
-    "type": "wordpress-plugin",
+    "type": "acf-plugin",
     "license": "MIT",
     "authors": [
         {
